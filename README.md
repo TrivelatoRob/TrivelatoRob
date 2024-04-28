@@ -33,7 +33,7 @@
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5531975952945)
 [![Gmail Badge](https://img.shields.io/badge/-robertotjr@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robertotjr@gmail.com)](mailto:robertotjr@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/TrivelatoRob?label=follow&style=social)]([https://github.com/TrivelatoRob])
+[![GitHub](https://img.shields.io/github/followers/TrivelatoRob?label=follow&style=social)](https://github.com/TrivelatoRob)
 
 
 <!---
